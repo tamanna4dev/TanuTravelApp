@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "name": "Bali Beach",
+      "description": "A serene beach in Indonesia",
+      "image": "../../assets/images/21.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Eiffel Tower",
+      "description": "Famous landmark in Paris",
+      "image": "../../assets/images/11.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Great Wall of China",
+      "description": "An ancient wonder in China",
+      "image": "../../assets/images/22.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Machu Picchu",
+      "description": "Inca citadel in Peru",
+      "image": "../../assets/images/23.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Grand Canyon",
+      "description": "Majestic canyon in Arizona, USA",
+      "image": "../../assets/images/24.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Santorini",
+      "description": "Beautiful island in Greece",
+      "image": "../../assets/images/25.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Sydney Opera House",
+      "description": "Famous landmark in Sydney, Australia",
+      "image": "../../assets/images/7.jpeg"
+    },
+    {
+      "id": "8",
+      "name": "Mount Fuji",
+      "description": "Iconic mountain in Japan",
+      "image": "../../assets/images/26.jpeg"
+    },
+    {
+      "id": "9",
+      "name": "Niagara Falls",
+      "description": "Stunning waterfall on the US-Canada border",
+      "image": "../../assets/images/27.jpeg"
+    },
+    {
+      "id": "10",
+      "name": "Colosseum",
+      "description": "Ancient Roman amphitheater in Italy",
+      "image": "../../assets/images/17.jpg"
+    }
+  ]
+  

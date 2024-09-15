@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "name":"Holiday Travel",
+        "image":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "rating":"4.7",
+        "reviews":1450
+    },
+    {
+        "id":"2",
+        "name":"Holiday Tour Planners",
+        "image":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "rating":"4.8",
+        "reviews":650
+    },
+    {
+        "id":"3",
+        "name":"Happy Tour Planners",
+        "image":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "rating":"4.1",
+        "reviews":150
+    },
+    {
+        "id":"4",
+        "name":"Royal Tour & Travel",
+        "image":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "rating":"4.9",
+        "reviews":550
+    }
+]

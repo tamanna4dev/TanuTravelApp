@@ -1,0 +1,106 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "../assets/images/1.jpg",
+        "description": "Escape to the ultimate tropical paradise retreat...",
+        "rating": "4.8",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+      },
+      {
+        "id": "2",
+        "name": "Alpine Chalet Retreat",
+        "image": "../assets/images/2.jpeg",
+        "description": "Retreat to a serene alpine hideaway...",
+        "rating": "4.5",
+        "price": "120",
+        "duration": "4",
+        "location": "Switzerland",
+        "category": "Mountains"
+      },
+      {
+        "id": "3",
+        "name": "Urban Explorer's Dream",
+        "image": "../assets/images/3.jpg",
+        "description": "Discover the vibrant city life...",
+        "rating": "4.7",
+        "price": "140",
+        "duration": "2",
+        "location": "USA",
+        "category": "Cities"
+      },
+      {
+        "id": "4",
+        "name": "Enchanted Forest Retreat",
+        "image": "../assets/images/5.jpg",
+        "description": "Explore the serene forests...",
+        "rating": "4.6",
+        "price": "180",
+        "duration": "5",
+        "location": "USA",
+        "category": "Forests"
+      },
+      {
+        "id": "5",
+        "name": "Tranquil Lakeside Haven",
+        "image": "../assets/images/6.webp",
+        "description": "Relax by a peaceful lakeside...",
+        "rating": "4.9",
+        "price": "120",
+        "duration": "3",
+        "location": "England",
+        "category": "Lakes"
+      },
+      {
+        "id": "6",
+        "name": "Sandy Shores Beach Resort",
+        "image": "../assets/images/7.jpeg",
+        "description": "Soak in the sun on sandy shores...",
+        "rating": "4.3",
+        "price": "140",
+        "duration": "2",
+        "location": "USA",
+        "category": "Cities"
+      },
+      {
+        "id": "7",
+        "name": "Urban Explorer's Dream",
+        "image": "../assets/images/8.jpg",
+        "description": "Discover the bustling cityscapes...",
+        "rating": "4.7",
+        "price": "100",
+        "duration": "7",
+        "location": "Canada",
+        "category": "Mountains"
+      },
+      {
+        "id": "8",
+        "name": "Metropolitan Marvels",
+        "image": "../assets/images/1.jpg",
+        "description": "Explore the wonders of the metropolis...",
+        "rating": "4.6",
+        "price": "170",
+        "duration": "3",
+        "location": "Japan",
+        "category": "Cities"
+      },
+      {
+        "id": "9",
+        "name": "Mystical Forest Sanctuary",
+        "image": "../assets/images/10.jpg",
+        "description": "Unwind in a mystical forest hideaway...",
+        "rating": "4.3",
+        "price": "140",
+        "duration": "2",
+        "location": "USA",
+        "category": "Cities"
+      }
+]
+
+
+
+
+  
